@@ -1,4 +1,4 @@
-# Game Title
+# sine
 
 ## Description
 A brief description of the game, its mechanics, and what makes it unique.
